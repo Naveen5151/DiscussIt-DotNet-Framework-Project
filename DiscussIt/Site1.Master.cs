@@ -68,7 +68,6 @@ namespace DiscussIt
             Logout.Visible = false;
             UserProfile.Visible = false;
             Response.Redirect("homepage.aspx");
-        // hai
         }
 
         protected void Home_Click(object sender, EventArgs e)
